@@ -7,6 +7,6 @@ places_the_summer_olympics_took_place = {
 }
 
 places_the_summer_olympics_took_place.each do |year, places|
-  puts "the #{year} olympics took place at #{places}!!!"
+  puts "The #{year} olympics took place in #{places}!!!"
   puts ""
 end 
